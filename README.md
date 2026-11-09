@@ -6,13 +6,23 @@
 
 ## 安装
 
-1. 安装用户脚本管理器：[Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)。
-2. 点下面的链接安装脚本（脚本管理器会自动弹出安装页）：
+先安装一个用户脚本管理器：[Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)。
 
-   **<https://raw.githubusercontent.com/wakaba-mark/nexusmods-zh/refs/heads/main/nexusmods-zh.user.js>**
+### 方式一：从 Greasy Fork 安装（推荐）
 
-   也可以下载 `nexusmods-zh.user.js` 后拖进浏览器窗口，或新建脚本粘贴内容保存。
-3. 打开 Nexus Mods，界面即为中文。
+1. 打开发布页：<https://greasyfork.org/zh-CN/scripts/604540>
+2. 点击页面上的「安装此脚本」。
+3. 安装完成后打开 Nexus Mods，界面即为中文。
+
+Greasy Fork 分发的安装文件自带 `@downloadURL` / `@updateURL`，之后的版本更新由 Greasy Fork 推送，脚本管理器会提示升级，无需回到本仓库操作。
+
+### 方式二：从本仓库安装
+
+点击安装：**<https://raw.githubusercontent.com/wakaba-mark/nexusmods-zh/refs/heads/main/nexusmods-zh.user.js>**
+
+也可以下载 `nexusmods-zh.user.js` 后拖进浏览器窗口，或在脚本管理器里新建脚本粘贴内容保存。这种方式不携带自动更新地址，升级时需要重新安装，或用脚本管理器的「检查更新」手动比对。
+
+安装完成后打开 Nexus Mods，界面即为中文。
 
 需要停用中文时，点脚本管理器的图标菜单 →「暂时显示英文原文」，刷新后生效；再次点击恢复。
 
