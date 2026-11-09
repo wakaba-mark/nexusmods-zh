@@ -2,7 +2,7 @@
 // @name         NexusMods 界面汉化
 // @name:en      NexusMods UI Chinese
 // @namespace    https://github.com/wakaba-mark/nexusmods-zh
-// @version      1.0.0
+// @version      1.0.1
 // @author       wakaba
 // @description:en  Translate the Nexus Mods site interface (navigation, filters, buttons, tabs, stats, preferences, date formats) into Simplified Chinese. Mod titles, descriptions and comments are left untouched.
 // @homepageURL  https://github.com/wakaba-mark/nexusmods-zh
