@@ -3,6 +3,7 @@
 // @name:en      NexusMods UI Chinese
 // @namespace    https://github.com/wakaba-mark/nexusmods-zh
 // @version      1.0.0
+// @author       wakaba
 // @description  将 Nexus Mods 站点界面汉化为简体中文（导航、筛选、按钮、标签页、统计、设置项、日期格式），不翻译模组标题、描述、评论等用户内容；兼容新版 React 页面、旧版模组页与 Shadow DOM 组件。
 // @match        https://www.nexusmods.com/*
 // @match        https://users.nexusmods.com/*
