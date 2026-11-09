@@ -1,0 +1,6 @@
+# 本地开发与页面采集用的临时文件，不发布
+tools/
+dump/
+.profile/
+node_modules/
+*.log
