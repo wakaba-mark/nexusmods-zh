@@ -9,7 +9,7 @@
 1. 安装用户脚本管理器：[Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)。
 2. 点下面的链接安装脚本（脚本管理器会自动弹出安装页）：
 
-   **<https://raw.githubusercontent.com/wakaba-mark/nexusmods-zh/main/nexusmods-zh.user.js>**
+   **<https://raw.githubusercontent.com/wakaba-mark/nexusmods-zh/refs/heads/main/nexusmods-zh.user.js>**
 
    也可以下载 `nexusmods-zh.user.js` 后拖进浏览器窗口，或新建脚本粘贴内容保存。
 3. 打开 Nexus Mods，界面即为中文。
