@@ -7,6 +7,7 @@
 // @description:en  Translate the Nexus Mods site interface (navigation, filters, buttons, tabs, stats, preferences, date formats) into Simplified Chinese. Mod titles, descriptions and comments are left untouched.
 // @homepageURL  https://github.com/wakaba-mark/nexusmods-zh
 // @supportURL   https://github.com/wakaba-mark/nexusmods-zh/issues
+// @license      MIT
 // @description  将 Nexus Mods 站点界面汉化为简体中文（导航、筛选、按钮、标签页、统计、设置项、日期格式），不翻译模组标题、描述、评论等用户内容；兼容新版 React 页面、旧版模组页与 Shadow DOM 组件。
 // @match        https://www.nexusmods.com/*
 // @match        https://users.nexusmods.com/*

@@ -50,6 +50,14 @@
 - **Shadow DOM**：自动进入 Web Component 的 shadow root，并接管后创建的 shadow root（下载按钮、搜索框、试用横幅等）。
 - **故障隔离**：单个文本节点出错不会中断整页翻译。
 
+## 发布与同步
+
+本仓库与 [Greasy Fork](https://greasyfork.org/zh-CN/scripts/604540) 上的发布版本通过「源代码同步」关联：
+
+- Greasy Fork 定期从 `main` 分支的 `nexusmods-zh.user.js` 拉取，检测到 `@version` 递增即发布新版本；
+- 脚本页的说明文字来自 [`description.md`](description.md)，同样通过同步更新；
+- 发布新版本的流程：修改脚本 → 递增 `@version` → 提交并推送 → Greasy Fork 自动跟进（也可在其脚本管理页手动触发同步）。
+
 ## 定制与扩展
 
 脚本是单文件，按段落组织，加词条不需要了解整个引擎：
